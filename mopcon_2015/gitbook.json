@@ -1,26 +1,4 @@
 [{
-    "mdfileName": "akane.md",
-    "summary": "使用者要的不是功能！",
-    "timeStart": "10:15",
-    "timeEnd": "11:00",
-    "room": "主廳 (R1)",
-    "type": "技術",
-    "speakerId": "Akane Lee",
-    "img": "akane.jpg",
-    "issue": "做了功能就會有人來用的思考方式無法留下使用者，使用者真正想要的完全不是功能。透過簡單的使用者經驗研究方法，抓住使用者的渴望與情緒變化，就能推出令人愛不釋手的好產品。",
-    "speaker": "嫁給 RD 的 UI Designer"
-}, {
-    "mdfileName": "ben_jai.md",
-    "summary": "開放資料開放平台 ",
-    "timeStart": "09:15",
-    "timeEnd": "10:00",
-    "room": "主廳 (R1) / 全廳聯播",
-    "type": "技術",
-    "speakerId": "翟本喬 (Ben Jai)",
-    "img": "7.ben_jai.jpg",
-    "issue": "政府開放資料供民間使用，是一種負責任的態度，也是一個不可避免的趨勢。民間使用政府資料時最重視的因素包括了正確性、適宜授權、易用程度、即時性、可追索性、適當格式等等。妥善解決這些問題，是開放資料推廣過程中一個重要的步驟。我們推出一個開放資料平台，讓以上因素都能順利解決。",
-    "speaker": "翟本喬為台灣第一位跳級生，1999 年赴美取得紐約大學電腦科學博士，2003 年進入 Google，成功研發高效率單電壓電源供應器。2010 年回到台灣加入台達電子創立雲端技術中心。2013 年 6 月率原團隊成立和沛科技，積極開發符合雲端運算精神的新產品及服務，並對於台灣創新創業環境多有建言。"
-}, {
     "mdfileName": "alex.md",
     "summary": "NAS 公私混合雲，打造行動數位生活",
     "timeStart": "14:00",
@@ -31,6 +9,17 @@
     "img": "33.alex_chang.jpg",
     "issue": "NAS 對許多人來說可能還停留在一種可遠觀的先進資訊產品。然而事實真是如此嗎？讓 QNAP 來引領您進入 NAS 的世界，透過 RAID 保護資料、打造公私混合雲。結合網路、行動影音與生活工作同步，讓 NAS 成為行動數位生活的中心。搭配 QNAP 開發套件，打造自己的專用 NAS。",
     "speaker": "熱愛 3C 產品，曾架設現在只有老骨頭才知道的老伯的硬體小站，從此在主機板及 NAS 界工作至今。在 QNAP 轉 porting 數個專案，也擔任專案經理負責 Qsirch 酷先生全文檢索專案。目前專職進行 NAS 二次開發。"
+}, {
+    "mdfileName": "akane.md",
+    "summary": "使用者要的不是功能！",
+    "timeStart": "10:15",
+    "timeEnd": "11:00",
+    "room": "主廳 (R1)",
+    "type": "技術 / UI, UX",
+    "speakerId": "Akane Lee",
+    "img": "akane.jpg",
+    "issue": "做了功能就會有人來用的思考方式無法留下使用者，使用者真正想要的完全不是功能。透過簡單的使用者經驗研究方法，抓住使用者的渴望與情緒變化，就能推出令人愛不釋手的好產品。",
+    "speaker": "嫁給 RD 的 UI Designer"
 }, {
     "mdfileName": "denny.md",
     "summary": "從 0 到 1：打開 Android 開發的秘密，發現開源好棒棒",
@@ -44,7 +33,7 @@
     "speaker": "SITCON 學生計算機年會發起人之一暨 2013, 2014 年會總召，Fanily 後端及 Android 工程師，零零總總約五年的 Android 開發經驗，熱愛開放原始碼及和與 UI/UX 無關的事(?"
 }, {
     "mdfileName": "jing_de.md",
-    "summary": "架構新時代雲端服務和巨量資料的儲存平台 ",
+    "summary": "架構新時代雲端服務和巨量資料的儲存平台",
     "timeStart": "16:15",
     "timeEnd": "17:00",
     "room": "主廳 (R1) / 全廳聯播",
@@ -53,6 +42,17 @@
     "img": "37.jing_de.jpg",
     "issue": "行動裝置與雲端服務正在影響人類的生活並重新定義行之有年的 IT 架構，為了應付未來雲端時代的 IT 服務需求，我們將探討如何建構一個有彈性又可靠的儲存架構。",
     "speaker": "龎景德擅長伺服器及儲存系統軟硬體設計開發及研究，目前為和沛科技技術總監，負責雲端儲存平台規劃設計。"
+}, {
+    "mdfileName": "anistar.md",
+    "summary": "行動測試與發布的秘訣 [Tips of Mobile Continuous Delivery]",
+    "timeStart": "13:00",
+    "timeEnd": "13:45",
+    "room": "主廳 (R1) / 全廳聯播",
+    "type": "技術",
+    "speakerId": "宋志峰 (Anistar)",
+    "img": "02.anistar.jpg",
+    "issue": "一個成功的產品除了『良好的使用者體驗』與『優秀的程式架構』外，另一個關鍵因素就在於『高度可信賴的服務品質』，要能讓使用者隨時都能夠享受到正確的運作結果，繁複的測試流程是免不了。在這場分享中，Anistar 將分享 Yahoo! 的行動開發團隊是如何規劃行動測試的策略，怎麼確保用最短的時間卻能不停的將最新的功能提供給使用者，還有更多有趣的 Yahoo! 開發秘辛。",
+    "speaker": "目前現職服務於雅虎奇摩，負責帶領超級商城與拍賣 APP 開發，專注在專案軟體架構規劃與開發，熱愛分享自己的經驗。具備 10 年以上的專案開發經驗，7 年的專業講師資歷，開發的 Magic Shutter 曾獲得 NewYork Times 推薦最佳前十大攝影軟體推薦。"
 }, {
     "mdfileName": "benny.md",
     "summary": "用 LINE Platform 打造有趣的行動應用服務",
@@ -65,16 +65,16 @@
     "issue": "LINE 目前全球每月活躍用戶超過 2.11 億，開發者可以透過 LINE Platform 提供的 APIs 及 SDK 開發網路服務及行動應用，為服務及應用創造更多價值。這次的議程會介紹 LINE Platform 開發的案例及讓各位瞭解如何用 LINE Platform 打造有趣的行動應用。",
     "speaker": "現任職於 LINE Taiwan，負責 LINE Platform 的應用開發及平台推廣。過去做過電商、O2O 服務及影音相關軟體，喜歡研究 business mode l及用優雅的 script language 解決各種問題。"
 }, {
-    "mdfileName": "harry.md",
-    "summary": "Unleash The Power of Design",
-    "timeStart": "11:15",
-    "timeEnd": "12:00",
-    "room": "三廳 (R3)",
+    "mdfileName": "ben_jai.md",
+    "summary": "開放資料開放平台",
+    "timeStart": "09:15",
+    "timeEnd": "10:00",
+    "room": "主廳 (R1) / 全廳聯播",
     "type": "技術",
-    "speakerId": "Harry Wu",
-    "img": "34.harry_wu.jpg",
-    "issue": "設計是思考方式、流程與文化。在聚集各路好手的環境中，建立不同背景成員之共同目標，讓每個人發揮不同超能力的同時，激發出團隊火花，共同創造最好的產品與服務，這場 Session 將分享 Yahoo 是如何創造這樣一個環境給團隊成員。",
-    "speaker": "目前為 Yahoo 台灣行動團隊的 UED (使用者經驗設計)，主要負責的產品為電子商務 App。因為對設計的熱衷，一路從資訊工程的背景走到 UED 領域；因為對內容與創新服務的著迷，從硬體產業的設計走到行動網路服務的設計。加入 Yahoo 台灣之前，任職於華碩/和碩設計中心，畢業於美國北卡州立大學資工所。"
+    "speakerId": "翟本喬 (Ben Jai)",
+    "img": "7.ben_jai.jpg",
+    "issue": "政府開放資料供民間使用，是一種負責任的態度，也是一個不可避免的趨勢。民間使用政府資料時最重視的因素包括了正確性、適宜授權、易用程度、即時性、可追索性、適當格式等等。妥善解決這些問題，是開放資料推廣過程中一個重要的步驟。我們推出一個開放資料平台，讓以上因素都能順利解決。",
+    "speaker": "翟本喬為台灣第一位跳級生，1999 年赴美取得紐約大學電腦科學博士，2003 年進入 Google，成功研發高效率單電壓電源供應器。2010 年回到台灣加入台達電子創立雲端技術中心。2013 年 6 月率原團隊成立和沛科技，積極開發符合雲端運算精神的新產品及服務，並對於台灣創新創業環境多有建言。"
 }, {
     "mdfileName": "doro.md",
     "summary": "運用 QNAP Docker 輕鬆打造持續整合開發環境",
@@ -87,12 +87,23 @@
     "issue": "Docker 的出現改變了 NAS 軟體生態，過去將軟體移殖到 NAS 上高不可攀的學習曲線已不在在，因應 Docker 和 LXC 的出現，QNAP 推出了 Container Station 來輔助 Container 在 NAS 的使用，如今 NAS 不在只是單純的儲存設備而已，它在運算上也能扮演著不錯的角色。在這場議題中，將分享 QNAP 如何運用 Docker 及 Container Station 在軟體專案上達成持續整合。",
     "speaker": "Doro Wu 在 QNAP System 擔任專案經理，熱衷於 LXC and Docker 技術，目前在公司負責的專案為 Container Station。"
 }, {
+    "mdfileName": "harry.md",
+    "summary": "Unleash The Power of Design",
+    "timeStart": "11:15",
+    "timeEnd": "12:00",
+    "room": "三廳 (R3)",
+    "type": "技術",
+    "speakerId": "Harry Wu",
+    "img": "34.harry_wu.jpg",
+    "issue": "設計是思考方式、流程與文化。在聚集各路好手的環境中，建立不同背景成員之共同目標，讓每個人發揮不同超能力的同時，激發出團隊火花，共同創造最好的產品與服務，這場 Session 將分享 Yahoo 是如何創造這樣一個環境給團隊成員。",
+    "speaker": "目前為 Yahoo 台灣行動團隊的 UED (使用者經驗設計)，主要負責的產品為電子商務 App。因為對設計的熱衷，一路從資訊工程的背景走到 UED 領域；因為對內容與創新服務的著迷，從硬體產業的設計走到行動網路服務的設計。加入 Yahoo 台灣之前，任職於華碩/和碩設計中心，畢業於美國北卡州立大學資工所。"
+}, {
     "mdfileName": "jeremy.md",
     "summary": "React Native 帶來的跨平台 mobile app 開發典範轉移",
     "timeStart": "15:15",
     "timeEnd": "16:00",
     "room": "主廳 (R1)",
-    "type": "技術",
+    "type": "技術 / Apps",
     "speakerId": "Jeremy Lu",
     "img": "22.jeremylu.jpg",
     "issue": "Mobile app 曠日費時、成本高昂且人才難尋，長久以來一直是業界無解的難題，Facebook 於 2015 年推出的 React Native 將從根本解決此問題，本場將為聽眾深入淺出的介紹它帶來的創新技術與手法如何從根本上點燃了 mobile app 開發的典範轉移。",
@@ -103,7 +114,7 @@
     "timeStart": "10:15",
     "timeEnd": "11:00",
     "room": "三廳 (R3)",
-    "type": "技術",
+    "type": "技術 / 開發流程",
     "speakerId": "曾君宇 (魯蛇喬)",
     "img": "30.joe.jpg",
     "issue": "可汗學院 (KhanAcademy) 是世界上對小朋友最具影響力的線上學習平台，且已在去年年底達到累積達題數 30 億次的驚人數據。而目前國內的均一教育平台則是從數年前從可汗學院 fork 出來的專案開始成長茁壯。本演講將介紹在非營利組織內的小型技術團隊，是如何在一片程式碼汪洋中進行修改、導入敏捷與幫 API 寫上活文件。",
@@ -120,6 +131,28 @@
     "issue": "對 APP 開發方而言，提供的功能越是完整就越能顯現出其產品的核心和優於他人產品的價值，但對手機使用者來說，其對 APP 的訴求幾乎都是操作方便性遠大於功能完整性，如何在兩者之間取得平衡一直都是 APP 開發者的難題。 透過比較市場上 APP 其功能完整性與操作便利性，加上使用者經驗測試結果，歸納出幾項設計原則，提供 APP 開發者作為介面與功能設計時的參考。",
     "speaker": "台灣新蛋股份有限公司工程師，主要負責業務包含產品後台的開發與維護等。"
 }, {
+    "mdfileName": "sam.md",
+    "summary": "Gradle 不只自動化而且更敏捷",
+    "timeStart": "10:15",
+    "timeEnd": "11:00",
+    "room": "二廳 (R2)",
+    "type": "技術 / DevOps",
+    "speakerId": "邱炫儒 (Sam)",
+    "img": "sam.jpg",
+    "issue": "探討 build script as code 的觀念以及如何善用 Gradle 工具幫助 Android App 的開發。",
+    "speaker": "專注於 Android App 開發的持續整合流程並經常接觸開發維運相關的系統設計，目前服務於 HTC。"
+}, {
+    "mdfileName": "sj.md",
+    "summary": "軟體、測試、程式設計家",
+    "timeStart": "17:05",
+    "timeEnd": "17:50",
+    "room": "一廳 (R1)",
+    "type": "技術 / 開發流程",
+    "speakerId": "周家弘 (SJ)",
+    "img": "sj.jpg",
+    "issue": "軟體設計是世界上最複雜的工作，我們彷彿就像在鋼索上敲擊鍵盤的小丑，搖搖欲墜。踏實地開發系統與掌握軟體開發節奏是一件重要的事。本議程將分享建構持續整合系統所遭遇的困難與經驗，藉由自動化測試探討軟體品質的重要性，進而實現產品持續交付。希望透過這個機會影響更多開發者對軟體品質的重視。",
+    "speaker": "目前於鴻海擔任工程師，負責開發雲端服務，平常喜歡聽點音樂與寫點部落格 (Soul & Shell Blog)。幾年前曾與日本富士康合作開發系統，從此奠定對軟體品質的堅持。熱愛開發新產品，近年來熱衷於 Web 技術，流連往返於程式設計與軟體架構。"
+}, {
     "mdfileName": "taichiro_yoshida.md",
     "summary": "Deliver Beta App with ChatOps",
     "timeStart": "11:15",
@@ -130,28 +163,6 @@
     "img": "90.taichiro_yoshida.jpg",
     "issue": "Typetalk 是 Nulab Inc 所推出的第一款行動 APP，我們將分享其 iOS App 開發過程、架構和如何使用ChatOps 工具將 beta 版提供給公司成員做測試。",
     "speaker": "吉田先生在日本 Nulab 公司擔任軟體開發者，主要開發 Typetalk 企業即時通的 iOS 版本 App。"
-}, {
-    "mdfileName": "sj.md",
-    "summary": "軟體、測試、程式設計家",
-    "timeStart": "17:05",
-    "timeEnd": "17:50",
-    "room": "一廳 (R1)",
-    "type": "技術",
-    "speakerId": "周家弘 (SJ)",
-    "img": "sj.jpg",
-    "issue": "軟體設計是世界上最複雜的工作，我們彷彿就像在鋼索上敲擊鍵盤的小丑，搖搖欲墜。踏實地開發系統與掌握軟體開發節奏是一件重要的事。本議程將分享建構持續整合系統所遭遇的困難與經驗，藉由自動化測試探討軟體品質的重要性，進而實現產品持續交付。希望透過這個機會影響更多開發者對軟體品質的重視。",
-    "speaker": "目前於鴻海擔任工程師，負責開發雲端服務，平常喜歡聽點音樂與寫點部落格 (Soul & Shell Blog)。幾年前曾與日本富士康合作開發系統，從此奠定對軟體品質的堅持。熱愛開發新產品，近年來熱衷於 Web 技術，流連往返於程式設計與軟體架構。"
-}, {
-    "mdfileName": "sam.md",
-    "summary": "Gradle 不只自動化而且更敏捷",
-    "timeStart": "10:15",
-    "timeEnd": "11:00",
-    "room": "二廳 (R2)",
-    "type": "技術",
-    "speakerId": "邱炫儒 (Sam Chiu)",
-    "img": "sam.jpg",
-    "issue": "探討 build script as code 的觀念以及如何善用 Gradle 工具幫助 Android App 的開發。",
-    "speaker": "專注於 Android App 開發的持續整合流程並經常接觸開發維運相關的系統設計，目前服務於 HTC。"
 }, {
     "mdfileName": "ycc.md",
     "summary": "雲端影像辨識？算了吧！",
@@ -164,17 +175,6 @@
     "issue": "影像辨識被視為較沉重的演算法程式，行動裝置是被視為較簡陋的電腦設備，要將沉重的程式放進簡陋的電腦好像很難？所以很多人會寄望於偉大的雲端！但是有很多原因，我們絕對不能這麼做！但是要將影像辨識程式在行動裝置上實作出來也不容易，就讓我在這個演講中慢慢告訴你吧！",
     "speaker": "大學畢業才開始寫程式的玩家，因為研究海底地形辨識開始接觸影像辨識，同時鑽研聲納科技，是目前國內唯一可以製作各式聲納軟體的怪咖！40 歲開始教程式設計，52 歲辭去大學教職投入業界，53 歲創業開設公司，主攻影像辨識技術，以在行動裝置中實現各種影像辨識技術為目標。"
 }, {
-    "mdfileName": "anistar.md",
-    "summary": "行動測試與發布的秘訣 [Tips of Mobile Continuous Delivery]",
-    "timeStart": "13:00",
-    "timeEnd": "13:45",
-    "room": "主廳 (R1) / 全廳聯播",
-    "type": "技術",
-    "speakerId": "宋志峰 (Anistar)",
-    "img": "02.anistar.jpg",
-    "issue": "一個成功的產品除了『良好的使用者體驗』與『優秀的程式架構』外，另一個關鍵因素就在於『高度可信賴的服務品質』，要能讓使用者隨時都能夠享受到正確的運作結果，繁複的測試流程是免不了。在這場分享中，Anistar 將分享 Yahoo! 的行動開發團隊是如何規劃行動測試的策略，怎麼確保用最短的時間卻能不停的將最新的功能提供給使用者，還有更多有趣的 Yahoo! 開發秘辛。",
-    "speaker": "目前現職服務於雅虎奇摩，負責帶領超級商城與拍賣 APP 開發，專注在專案軟體架構規劃與開發，熱愛分享自己的經驗。具備 10 年以上的專案開發經驗，7 年的專業講師資歷，開發的 Magic Shutter 曾獲得 NewYork Times 推薦最佳前十大攝影軟體推薦。"
-}, {
     "mdfileName": "hojie.md",
     "summary": "如何建立行動生態圈：透過數據分析及行動廣告制定產品成長策略",
     "timeStart": "10:15",
@@ -186,6 +186,17 @@
     "issue": "據 Nielsen 2014 年的調查顯示，使用者每天只會打開 9 個 APP，想優化使用者體驗、提升使用黏著度與留存率，需懂得使用工具來分析數據及優化。以行動 APP 為主要產品的公司來說，如何歸納出重要的商業及產品問題、蒐集相關數據、進行分析、快速修正及市場測試絕對都是快速成長的關鍵。希望能透過此分享讓大家對行動數據分析與行動廣告能有初步了解並協助日後的實作。",
     "speaker": "目前為 Yahoo 亞太區策略暨營運部資深分析師，負責協助 Flurry Analytics 及 Yahoo 行動開發者套件亞太區推廣策略。同時也擔任台灣創新行動服務推廣協會 (AppUniverz) 理事。加入 Yahoo 前曾任職美商 APT 策略顧問公司大中華區企業發展部、Google 印度全球廣告策略及營運部門、ASUS 亞太北非區產品策略及管理部門。畢業於清大經濟系。"
 }, {
+    "mdfileName": "rschiang.md",
+    "summary": "跨界的優雅：多平台的 QML 應用程式架構設計",
+    "timeStart": "11:15",
+    "timeEnd": "12:00",
+    "room": "二廳 (R2)",
+    "type": "技術",
+    "speakerId": "RSChiang",
+    "img": "104.rschiang.png",
+    "issue": "“Write once, run anywhere.” 是許多程式開發者的夢想，各種應用程式架構也似雨後春筍般仆繼亮相。然而各平台間的操作方式迴異，程式設計師們又該如何在跨平台應用程式的紅海裏同中求異、維繫使用者的良好體驗呢？在這場演講中，我們將簡介基於 Qt 的 QML 應用程式如何跨平台進行編譯開發，並同時分享維護多平台應用軟體的心得與所需注意的眉角。",
+    "speaker": "RSChiang，臺灣大學法律學系三年級，臺灣大學開源社發起人、SITCON 學生計算機年會副召集人。喜歡在民法債總的課上寫 Python，覺得生活中有兩種程式碼 (code) 是件幸福的事情。* http://poren.tw"
+}, {
     "mdfileName": "yllan.md",
     "summary": "全天下男人都會犯的錯：密碼學",
     "timeStart": "16:!5",
@@ -194,8 +205,8 @@
     "type": "技術",
     "speakerId": "藍永倫 (yllan)",
     "img": "98.yllan.jpg",
-    "issue": "那些年，我們一起修過的密碼學，我相信每個程式開發者心中，都有一個 RSA。然而有些太年輕犯下的錯誤，長大了才瞭解，回味起來卻是無限懷念。本次演講分析一些歷史上著名的密碼系統漏洞原理，並介 紹一些加密實作上常見的錯誤 (包括講者本人誠心懺悔告解)。",
-    "speaker": "SOLDA 創辦人，專長為 iOS / Mac 開發。較多人知道的專案為 Mac 上的 BBS App。單車界弗利札。曾參加並完成所有的 Matasano Crypto Challenge。 "
+    "issue": "那些年，我們一起修過的密碼學，我相信每個程式開發者心中，都有一個 RSA。然而有些太年輕犯下的錯誤，長大了才瞭解，回味起來卻是無限懷念。本次演講分析一些歷史上著名的密碼系統漏洞原理，並介紹一些加密實作上常見的錯誤 (包括講者本人誠心懺悔告解)。",
+    "speaker": "SOLDA 創辦人，專長為 iOS / Mac 開發。較多人知道的專案為 Mac 上的 BBS App。單車界弗利札。曾參加並完成所有的 Matasano Crypto Challenge。"
 }, {
     "mdfileName": "ben_lue.md",
     "summary": "Hack & Go 2",
@@ -213,7 +224,7 @@
     "timeStart": "11:15",
     "timeEnd": "12:00",
     "room": "二廳 (R2)",
-    "type": "技術",
+    "type": "技術 / IoT",
     "speakerId": "陳柏儒 (Blue)",
     "img": "13.blue.jpg",
     "issue": "相較於 Internet of Things (IoT)，近來最紅的另一個名詞 Web of Things (WoT)，就是所有東西 (Things) 都可以透過 Web 標準協議彼此存取與結合。本次主題，講者會以橫跨前端和硬體的背景跟大家分享，以及講者在硬體 IC 設計廠如何利用最潮的語言 (JavaScript) 和框架 (reactjs) 搭配現行的 WoT 標準打造豐富應用的開發版，降低大眾進入硬體的門檻。",
@@ -230,23 +241,12 @@
     "issue": "Gandi CLI 是由 Python 撰寫而成的開源命令列介面，使用 Gandi API 作為溝通介面。Gandi CLI 可用於建立與管理 instances (Gandi IaaS 和 PaaS)、生成與管理 SSL 憑證、管理域名和區域檔、以及其他與域名有關的服務 (如 Gandi Mail、Gandi Site)。目前 Gandi CLI 的原始碼放置於 Github，開放給大眾下載使用。* http://cli.gandi.net/",
     "speaker": "致力於將 Gandi 的 no bullshit 精神推廣至全亞洲。曾擔任趨勢科技工程師，負責改善 Anti-Virus API，同時亦參與智慧家庭物聯網研發專案。熱愛 Python 與 C 語言，喜愛結交開源社群的朋友。深信每個台灣人都應該瞭解開源文化的自由精神。閒暇沒事研究機器學習，期待用科技改善人類生活。"
 }, {
-    "mdfileName": "rschiang.md",
-    "summary": "跨界的優雅：多平台的 QML 應用程式架構設計",
-    "timeStart": "11:15",
-    "timeEnd": "12:00",
-    "room": "二廳 (R2)",
-    "type": "技術",
-    "speakerId": "RSChiang",
-    "img": "104.rschiang.png",
-    "issue": "“Write once, run anywhere.” 是許多程式開發者的夢想，各種應用程式架構也似雨後春筍般仆繼亮相。然而各平台間的操作方式迴異，程式設計師們又該如何在跨平台應用程式的紅海裏同中求異、維繫使用者的良好體驗呢？在這場演講中，我們將簡介基於 Qt 的 QML 應用程式如何跨平台進行編譯開發，並同時分享維護多平台應用軟體的心得與所需注意的眉角。",
-    "speaker": "RSChiang，臺灣大學法律學系三年級，臺灣大學開源社發起人、SITCON 學生計算機年會副召集人。喜歡在民法債總的課上寫 Python，覺得生活中有兩種程式碼 (code) 是件幸福的事情。 "
-}, {
     "mdfileName": "carl.md",
     "summary": "手機自動化測試和持續整合",
     "timeStart": "14:00",
     "timeEnd": "14:45 ",
     "room": "三廳 (R3)",
-    "type": "技術",
+    "type": "技術 / 開發流程",
     "speakerId": "Carl Su",
     "img": "06.carl.jpg",
     "issue": "1. 手動測試曠日廢時，原始碼變化太快。2. 前天測試沒有問題，現場操作就炸了！本主題試圖提供通用的解決方案，無論您的平台是 iOS, Android 還是 Firefox OS，都能透過自動化測試工具和 CI/CD，驗證產品可靠度，降低開發和測試成本，提升軟體品質。",
@@ -257,7 +257,7 @@
     "timeStart": "15:15",
     "timeEnd": "16:00",
     "room": "二廳 (R2)",
-    "type": "技術",
+    "type": "技術 / UI, UX",
     "speakerId": "吳姿穎 (Muki)",
     "img": "09.muki.jpg",
     "issue": "響應式設計？手機網站設計？揪竟要如何做出，讓低頭族也愛瀏覽的網站呢？今天咱們不碰程式碼，只聊設計，志在與大家分享我的低頭族網站設計經驗。",
@@ -274,17 +274,6 @@
     "issue": "當東西都連上網，Mobile 就成了最方便的管理控制器。此議程將從技術角度分享些實例，說明 Mobile 是如何串接 IoT 裝置、使用 Raspberry、Arduino 做為 IoT 的優缺點及完整的通訊方式介紹。想要了解 IoT 怎麼結合 Mobile？怎麼自己動手打造 IoT？千萬別錯過本次議程。",
     "speaker": "一個從後端一直玩，一直玩到前端的技術狂熱者，喜歡將複雜技術經由封裝成元件，讓更多開發者能組裝出有趣的應用或 App。今年更在 Arduino 上發展出 Webduino，有趣又有料的控制 Arduino 方式準備蔓延到 Mobile 上面囉 ~"
 }, {
-    "mdfileName": "tk.md",
-    "summary": "想像力讓技術極致",
-    "timeStart": "16:15",
-    "timeEnd": "17:00",
-    "room": "三廳 (R3)",
-    "type": "營運",
-    "speakerId": "林毅祥 (TK)",
-    "img": "23.tk.jpg",
-    "issue": "1. 我是不是一個技術背景的人。2. 廣告科技演進史。3. 從客戶需求，讓產品為王。4. 解決最有價值的客戶需求。5. 想像力讓技術極致。",
-    "speaker": "數位廣告界新銳、創新數位廣告專家。現任 ADPartner 執行長，於 2012 年引進 Facebook sPMD 服務，於 2013 年與國外廠商合作開發需求方廣告平台 (DSP)。目前是唯一可以同時下台灣、大陸廣告的 DSP，覆蓋率達九成五以上。2015 更跨足新加坡、馬來西亞，成為亞太數位跨國廣告企業。"
-}, {
     "mdfileName": "xdite.md",
     "summary": "Intro to Growth Hacking for developers",
     "timeStart": "11:15",
@@ -295,6 +284,17 @@
     "img": "8.xdite.jpg",
     "issue": "Growth Hack 是一門在矽谷熱門的行銷技術。但這個名詞對於台灣軟體業的人來說，是一門蒙著神秘面紗的高不可攀的行銷與技術學。傳說產品使用了 Growth Hack 技巧調整體質後，產品就會猛爆性的成長。Growth Hack 的本質是 行銷 + 技術 + 心理學。因為學門牽涉廣泛，入門門檻並不低。所以國內很少人在討論。此次演講就是希望能把這項非常棒的技術引入台灣，並大幅降低門檻。",
     "speaker": "xdite 是軟體開發者、創業者以及職業講師，曾創立 Logdown 技術部落格平台。目前主力經營 GrowthSchool 線上教育機構，且經營部落格暢談軟體開發、精實創業等議題。專長為 Ruby on Rails 敏捷開發、專案管理、Growth Hack。"
+}, {
+    "mdfileName": "tk.md",
+    "summary": "想像力讓技術極致",
+    "timeStart": "16:15",
+    "timeEnd": "17:00",
+    "room": "三廳 (R3)",
+    "type": "營運",
+    "speakerId": "林毅祥 (TK)",
+    "img": "23.tk.jpg",
+    "issue": "1. 我是不是一個技術背景的人。2. 廣告科技演進史。3. 從客戶需求，讓產品為王。4. 解決最有價值的客戶需求。5. 想像力讓技術極致。",
+    "speaker": "數位廣告界新銳、創新數位廣告專家。現任 ADPartner 執行長，於 2012 年引進 Facebook sPMD 服務，於 2013 年與國外廠商合作開發需求方廣告平台 (DSP)。目前是唯一可以同時下台灣、大陸廣告的 DSP，覆蓋率達九成五以上。2015 更跨足新加坡、馬來西亞，成為亞太數位跨國廣告企業。"
 }, {
     "mdfileName": "howard.md",
     "summary": "Apple Watch 開發 - 與 Apple 間的愛恨情仇",
@@ -318,17 +318,6 @@
     "issue": "Windows 10 UWP (Universal Windows Platform) 基於 common Windows Core 概念，提出建置單一 App，便能在 Windows 10 的各種裝置上使用，從以往針對 PC、平版、手機的 App，擴展至 Xbox, IoT, HoloLens 等裝置。基於 UWP 設計的 App 將不再挶限於手機及平版。本次議題將涵蓋 UWP 概念、UWP + Azure for Raspberry Pi Demo。",
     "speaker": "- 連任四屆 Microsoft ASP.NET MVP - https://goo.gl/IZFaUU- TechDays Taiwan 2014/2015講師- 2015 微軟實戰課程日講師- K.NET 社群共同創辧人及講者- HTML5 & JavaScript 程式開發實戰書籍共同作者"
 }, {
-    "mdfileName": "kny.md",
-    "summary": "強震即時警報 EEW",
-    "timeStart": "13:00",
-    "timeEnd": "13:45",
-    "room": "主廳 (R1) / 全廳聯播",
-    "type": "技術",
-    "speakerId": "陳坤助 (KNY)",
-    "img": "kny.jpg",
-    "issue": "政府提供的公共服務，傳統以來幾乎都是以標案的方式提供，但由於社會的開放與科技的演進，獨立開發者也能有機會直接與官方合作，提供更良善的公共服務，與正向的公私夥伴關係。以 KNY台灣天氣 App 接入氣象局的強震即時警報為例，分享其中的經驗與心得。",
-    "speaker": "國小開始 Coding，全端獨立開發超過 10 年，長期關注與推動台灣 App 與 Open Data 的發展。希望能透過科技與開放的力量，改善社會問題與建構更美好的未來。"
-}, {
     "mdfileName": "kj.md",
     "summary": "如何運用 AWS 雲端服務加速開發 Mobile App",
     "timeStart": "11:15",
@@ -338,10 +327,19 @@
     "speakerId": "KJ Wu",
     "img": "113.kj.jpg",
     "issue": "本議程將介紹如何運用 Amazon Web Services (AWS) 雲端服務來加速開發 Mobile App，對 Mobile App 快速開發有興趣的伙伴請千萬不要錯過！",
-    "speaker": {
-        "translation": "<!--AWS 方案架構師，主要負責企業應用、遊戲與 DevOps。他幫助客戶使用最好作法在設計高延展性、可信賴性及可用性的雲端架構。他有 15 年以上的 IT 相關經驗, 由一位開發者到 IT 顧問及雲端架構師。特別專長於 Java 開發與 SOA 設計。-->",
-        "original": " A Solutions Architect with AWS, focused on enterprise application, gaming and DevOps. He helps customers use best practices to design highly scalable, reliable and available architectures in the Cloud. With over 15 years of experience in the IT industry. He is also specialized in Java development and SOA design."
-    }
+    "speaker": "AWS 解決方案架構師，主要專精於企業應用軟體、遊戲發與 DevOps 領域。他協助客戶使用最好的高延展性、高可信度與高可用性之雲端架構設計。在 IT 界超過 15 年的工作經驗，從一位開發者、IT 顧問到雲端架構師。同時也擅長 Java 軟體開發與服務導向架構 (SOA) 設計。",
+    "speaker_original": "KJ is a Solutions Architect with AWS, focusing on enterprise applications, gaming and DevOps. He helps clients to design high scalablity, reliablity and availablity cloud architectures. With over 15 years of experience, KJ developed himself as a developer, IT consultant and cloud architect. Also specialized in Java and SOA design."
+}, {
+    "mdfileName": "kny.md",
+    "summary": "強震即時警報 EEW",
+    "timeStart": "13:00",
+    "timeEnd": "13:45",
+    "room": "主廳 (R1) / 全廳聯播",
+    "type": "技術 / Apps",
+    "speakerId": "陳坤助 (KNY)",
+    "img": "kny.jpg",
+    "issue": "政府提供的公共服務，傳統以來幾乎都是以標案的方式提供，但由於社會的開放與科技的演進，獨立開發者也能有機會直接與官方合作，提供更良善的公共服務，與正向的公私夥伴關係。以 KNY台灣天氣 App 接入氣象局的強震即時警報為例，分享其中的經驗與心得。",
+    "speaker": "* KNY Co. 執行長* 中華民國 App 跨界交流協會 理事長* 台灣開放資料聯盟 App 組 召集人* 交通部資料開放諮詢小組 諮詢委員* 曾獲 Google Play 頂尖開發人員徽章國小開始 Coding，全端獨立開發超過 10 年，長期關注與推動台灣 App 與 Open Data 的發展。希望能透過科技與開放的力量，改善社會問題與建構更美好的未來。"
 }, {
     "mdfileName": "allan_and_pony.md",
     "summary": "我的踩雷時代 - 那些你做遊戲前沒想到的事",
@@ -373,12 +371,8 @@
     "type": "技術",
     "speakerId": "下野 健二 (Kenji Shimono)",
     "img": "89.kenji_shimono.jpg",
-    "issue": {
-        "translation": "手把手玩 Linux 行動裝置。凝聚志同道合伙伴一起重新架構 Andriod, Chromebook 以及 ARM 等行動裝置。並探討終止支援 (End of life) 的行動裝置。",
-        "original": " Let's play the Mobile devices as Linux.   To gather people want to remodel the Android, Chromebook and ARM mobile devices.  And I  also discussed the 「End of Life the mobile device」."
-    },
-    "speaker": {
-        "translation": "我目前專注於以 Linux 在各種 ARM 裝置上的 Hacking。(如 Netwaker, DynabookAZ, Nexus7, RaspberryPi, chromebook 等等)除了在東海道的 Linux 使用者社群十分活躍，同時我也經常在日本幾個主流的 Open Source 會議發表演講。",
-        "original": " I'm playing with Linux hacking of various ARM devices. (about Netwaker, DynabookAZ, Nexus7, RaspberryPi, chromebook and also)  I am active in the Tokaido Linux User Group, and I am active in such mainly open source conference in Japan."
-    }
+    "issue": "手把手玩 Linux 行動裝置。凝聚志同道合伙伴一起重新架構 Andriod, Chromebook 以及 ARM 等行動裝置。並探討終止支援 (End of life) 的行動裝置。",
+    "speaker": "我目前專注於以 Linux 在各種 ARM 裝置上的 Hacking。(如 Netwaker, DynabookAZ, Nexus7, RaspberryPi, chromebook 等等)除了在東海道的 Linux 使用者社群十分活躍，同時我也經常在日本幾個主流的 Open Source 會議發表演講。",
+    "issue_original": "Let's play the Mobile devices as Linux.To gather people want to remodel the Android, Chromebook and ARM mobile devices.And I  also discussed the 「End of Life the mobile device」.",
+    "speaker_original": "I'm playing with Linux hacking of various ARM devices. (about Netwaker, DynabookAZ, Nexus7, RaspberryPi, chromebook and also)I am active in the Tokaido Linux User Group, and I am active in such mainly open source conference in Japan."
 }]
