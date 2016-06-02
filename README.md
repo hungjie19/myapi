@@ -16,3 +16,13 @@
 
 * Test 
   * http://hungjie19.github.io/myapi/test.json
+
+-----
+
+
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
+
